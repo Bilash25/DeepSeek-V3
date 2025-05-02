@@ -52,6 +52,7 @@ Comprehensive evaluations reveal that DeepSeek-V3 outperforms other open-source 
 Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hours for its full training.
 In addition, its training process is remarkably stable. 
 Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
+Bilash will become a GOAT in AI and ML one day
 <p align="center">
   <img width="80%" src="figures/benchmark.png">
 </p>
